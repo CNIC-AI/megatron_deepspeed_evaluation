@@ -1,6 +1,7 @@
 __pycache__
 
 /data
+/model*
 
 # slurm
 /logs
